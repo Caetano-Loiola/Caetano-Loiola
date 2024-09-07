@@ -1,4 +1,3 @@
-- Caetano Loiola
 - 20 anos
 - Estudante de Ciência da Computação
 - Aprendendo no momento: Assembly, Teoria da Computação e Linguagens Formais, entre outros..
