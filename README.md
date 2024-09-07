@@ -1,5 +1,5 @@
 - 20 anos
-- Estudante de Ciência da Computação
+- Estudante de Ciência da Computação na PUC Minas
 - Aprendendo no momento: Assembly, Teoria da Computação e Linguagens Formais, entre outros..
 <!---
 Caetano-Loiola/Caetano-Loiola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
